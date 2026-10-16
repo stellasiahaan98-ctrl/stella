@@ -55,7 +55,7 @@ class _HomeState extends State<Home> with SingleTickerProviderStateMixin {
         padding: EdgeInsets.symmetric(horizontal: 16.sp),
         children: [
           SizedBox(height: 8.0.h),
-          Text('List Sayur Tegar',
+          Text('List Sayur Stella',
               style: TextStyle(
                   fontFamily: 'Varela',
                   fontSize: 24.0.sp,
